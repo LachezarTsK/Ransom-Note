@@ -1,4 +1,7 @@
 
+const LETTERS_IN_ALPHABET = 26;
+const ASCII_CODE_LOWERCASE_A = 97;
+
 /**
  * @param {string} ransomNote
  * @param {string} magazine
